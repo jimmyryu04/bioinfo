@@ -1,4 +1,0 @@
-ERR188044  ./data/ballgown/ERR188044/ERR188044_chrX.gtf
-ERR188257  ./data/ballgown/ERR188257/ERR188257_chrX.gtf
-ERR188273  ./data/ballgown/ERR188273/ERR188273_chrX.gtf
-ERR188428  ./data/ballgown/ERR188428/ERR188428_chrX.gtf

@@ -1,7 +1,0 @@
-Analysis Conclusion
-
-The differential expression analysis between male and female samples using chromosome X data revealed several significantly differentially expressed genes. Among the most significant genes is likely XIST (X Inactive Specific Transcript), which is a key player in X-chromosome inactivation, the process that transcriptionally silences one of the two X chromosomes in females to ensure dosage compensation between sexes.
-
-These results are biologically sensible. Since females (XX) have two X chromosomes and males (XY) have one, genes involved in X-inactivation like XIST are expected to be highly expressed in females and virtually absent in males. The presence of such genes at the top of the significance list validates the analysis approach.
-
-Potential issues with the methodology could include the small sample size (two males vs. two females), which limits statistical power and might not capture the full biological variability within each population. Additionally, while the pipeline is standard, technical variations or batch effects, if not properly accounted for in the DESeq2 model, could influence the results. However, the stark and expected difference in XIST expression suggests the primary biological signal is strong and correctly identified.
